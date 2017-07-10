@@ -12,3 +12,4 @@
 
 6. Subnets 
 
+7. We used the macAddress data type in Eloquent for equipments.mac_address. Test that this allows us to manage all the sample patterns listed in the spec.

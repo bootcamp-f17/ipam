@@ -27,5 +27,18 @@
 
 13. Is accessibility an issue? Do we need 5.08 compliance?
 
+14. Review the types and lengths of fields in the tables in the docs
+
+15. Is the ipAddress data type appropriate for the IP address in the subnets table?
+
+
+16. What is the correct database data type of subnet mask bits?
+
+17. What is the correct database data type of the VLAN number?
+
+18. What type of data is printers.print server?
+
+
+
 
 
